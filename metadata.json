@@ -1,6 +1,0 @@
-{
-  "name": "PlayOff Manager",
-  "description": "Professional football Play-Off bracket management application with auto-advancement, cascading recursive reset, high-DPI export, and custom themes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
